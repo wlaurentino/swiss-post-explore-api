@@ -6,9 +6,6 @@ Resource    ../resources/base.resource
 
 Library        RequestsLibrary
 
-*** Variables ***
-${BASE_URL}    https://swisspost.opendatasoft.com/api/explore/v2.1
-
 *** Keywords ***
 
 Get CSV Export Data         
